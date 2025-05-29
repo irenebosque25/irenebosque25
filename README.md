@@ -6,6 +6,6 @@ Passionate about data-driven approaches to political science and sociology. Curr
 
 - Machine learning for social sciences 🤖
 
-- Data visualization for accessible insights 🎨
+- Data visualization 🎨
 
 - Web scraping and text processing 📑
